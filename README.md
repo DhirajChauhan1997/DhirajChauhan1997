@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DhirajChauhan1997
+- 👋 Hi, I’m Dhiraj Chauhan
 - 👀 I’m interested in Mobile and Web Application Development 
 - 🌱 I’m currently learning new technologies 
 - 💞️ I’m looking to collaborate on ...
